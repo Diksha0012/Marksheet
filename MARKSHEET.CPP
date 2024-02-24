@@ -414,7 +414,7 @@ class Student
 			
 			       }
 			 }
-			 void Student::per()
+	        void Student::per()
 		 {
 			 if(percentage>90)
 			 {
